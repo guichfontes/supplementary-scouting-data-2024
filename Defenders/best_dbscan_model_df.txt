@@ -1,0 +1,10 @@
+hyperparameters:
+epsilon = 3
+min_samples = 6
+-----------------------------------------
+silhouette_score ≈ 0.5071
+noise_rate ≈ 0.2368
+-----------------------------------------
+cluster_score ≈ 0.6523
+-----------------------------------------
+PCA 3D in "Defenders (PCA).png"

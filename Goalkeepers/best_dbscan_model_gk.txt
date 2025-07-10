@@ -1,0 +1,10 @@
+hyperparameters:
+epsilon = 2.9
+min_samples = 5
+-----------------------------------------
+silhouette_score ≈ 0.4433
+noise_rate ≈ 0.6154
+-----------------------------------------
+cluster_score = 0.4
+-----------------------------------------
+PCA 3D in "Goalkeepers (PCA).png"
