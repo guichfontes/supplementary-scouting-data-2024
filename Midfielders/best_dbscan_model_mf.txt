@@ -1,0 +1,10 @@
+hyperparameters:
+epsilon = 3
+min_samples = 9
+-----------------------------------------
+silhouette_score ≈ 0.4615
+noise_rate ≈ 0.3731
+-----------------------------------------
+cluster_score ≈ 0.6176
+-----------------------------------------
+PCA 3D in "Midfielders (PCA).png"
