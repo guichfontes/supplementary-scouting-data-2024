@@ -8,7 +8,7 @@ This repository contains supplementary data, tables, and detailed analysis resul
 ## Main Contents
 
 - Scouting purposes for each player position
-- Processed features for each player position 
+- Processed features and performance metrics for each player position 
 - Detailed results for midfielders, defenders, and goalkeepers using the Unsupervised Machine Learning methods described in the paper
 
 ## Usage
